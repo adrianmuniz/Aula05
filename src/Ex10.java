@@ -43,7 +43,7 @@ public class Ex10 {
 		} else {
 			if(conducao == 2) {
 				System.out.println("Rodizio não aplicavel!");
-			} else {
+			}else {
 				System.out.println("Número inválido");
 			}
 		}
